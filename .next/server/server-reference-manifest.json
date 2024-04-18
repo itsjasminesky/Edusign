@@ -2,49 +2,13 @@
   "node": {
     "a45c23dc952d36d07b0decaa432182bcaba9e8cd": {
       "workers": {
-        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
         "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/dashboard/(overview)/page": "rsc",
-        "app/dashboard/invoices/page": "rsc",
         "app/dashboard/customers/page": "rsc"
-      }
-    },
-    "61c5923b1ae99eba344b8a4f5d14f0ba27bd01c2": {
-      "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/dashboard/invoices/page": "rsc"
-      }
-    },
-    "2d6ba3c93ea9c13409c6cace5468db2308c59970": {
-      "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/dashboard/invoices/page": "rsc"
-      }
-    },
-    "a25b8556a6e0718d5c3d66111af44e811164cd9d": {
-      "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/dashboard/invoices/page": "rsc"
-      }
-    },
-    "783670111665667df47bb1023ec026afc523198c": {
-      "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/dashboard/invoices/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "n9wSQzYLP43gdEAu07Am8rrtlulyWqI03znq4Xy3Ci8="
+  "encryptionKey": "ugK7VDEv/ybV2yck6xvu1YTlldrSDkNS5jQ4odc+FF4="
 }
