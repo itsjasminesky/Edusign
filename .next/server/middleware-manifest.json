@@ -1,25 +1,6 @@
 {
-  "sortedMiddleware": [
-    "/"
-  ],
-  "middleware": {
-    "/": {
-      "files": [
-        "server/edge-runtime-webpack.js",
-        "server/middleware.js"
-      ],
-      "name": "middleware",
-      "page": "/",
-      "matchers": [
-        {
-          "regexp": "^/.*$",
-          "originalSource": "/:path*"
-        }
-      ],
-      "wasm": [],
-      "assets": []
-    }
-  },
+  "version": 3,
+  "middleware": {},
   "functions": {},
-  "version": 2
+  "sortedMiddleware": []
 }

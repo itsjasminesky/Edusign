@@ -1,14 +1,5 @@
 {
-  "node": {
-    "a45c23dc952d36d07b0decaa432182bcaba9e8cd": {
-      "workers": {
-        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjasmineyearian%2FDesktop%2FEdusign%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
-      },
-      "layer": {
-        "app/dashboard/customers/page": "rsc"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
-  "encryptionKey": "ugK7VDEv/ybV2yck6xvu1YTlldrSDkNS5jQ4odc+FF4="
+  "encryptionKey": "eIRmn9VIAbZNyc6Jb0YBsZniMNezpgjns+M0KZGZ1MM="
 }
