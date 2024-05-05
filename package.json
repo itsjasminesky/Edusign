@@ -1,21 +1,52 @@
 {
-  "name": "edusign",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "devDependencies": {
-    "@types/react": "18.2.79",
-    "next": "^14.2.2",
-    "typescript": "5.4.5"
-  },
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "prettier": "prettier --write --ignore-unknown .",
+    "prettier:check": "prettier --check --ignore-unknown .",
+    "seed": "node -r dotenv/config ./scripts/seed.js",
+    "start": "next start"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@emotion/react": "^11.11.4",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.7",
+    "@types/node": "20.5.7",
+    "@vercel/postgres": "^0.5.0",
+    "autoprefixer": "10.4.15",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "clsx": "^2.0.0",
+    "express": "^4.19.2",
+    "next": "^14.0.2",
+    "next-auth": "^5.0.0-beta.16",
+    "pg": "^8.11.5",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "tailwindcss": "3.3.3",
+    "theme-ui": "^0.16.2",
+    "typescript": "5.4.5",
+    "use-debounce": "^9.0.4",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.1",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.2.14",
+    "@types/react-slick": "^0.23.13",
+    "@vercel/style-guide": "^5.0.1",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0",
+    "eslint-config-prettier": "9.0.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "0.5.4"
+  },
+  "engines": {
+    "node": ">=18.17.0"
   }
 }
